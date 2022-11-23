@@ -1,4 +1,4 @@
-# Crab Game +
+# Crab Game FNaF Fangame Maps
 Maps made by: \
 Monste - Treasure Island \
 \
